@@ -4,6 +4,7 @@ FITUR LENGKAP:
 - SSH
 - SSH WS TLS / NON TLS
 - Open VPN
+- Open VPN WS
 - L2TP
 - PPTP
 - SSTP
